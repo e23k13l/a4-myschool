@@ -1,0 +1,20 @@
+#bannerpic	{
+	
+	border:#00FFFF;
+	border-width: 7.5px;
+    box-shadow: 10px 10px 20px #ff661a;
+    padding:10px;
+}
+
+#About	{background-color:#00FFFF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    }
+    
+#About:hover	{box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
